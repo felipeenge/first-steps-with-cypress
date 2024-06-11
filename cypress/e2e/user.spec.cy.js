@@ -3,7 +3,6 @@ import LoginPage from '../pages/loginPage'
 import DashboardPage from '../pages/dashboardPage'
 import MenuPage from '../pages/menuPage'
 import MyInfoPage from '../pages/myInfoPage'
-import { log } from 'async'
 
 const Chance = require('chance')
 
